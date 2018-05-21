@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Solar Chicago Fund</title>
+		<title>SolarChi Fund Goals</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="/assets/css/main.css" />
@@ -11,7 +11,7 @@
 			<div id="wrapper">
 
 					<header id="header">
-						<h1><a href="#">SolarChi</a></h1>
+						<h1><a href="/">SolarChi</a></h1>
 						<nav class="links">
 							<ul>
 								<li><a href="#">Mission</a></li>
@@ -67,16 +67,43 @@
 							<article class="post">
 								<header>
 									<div class="title">
-										<h2><a href="#">Chicago's Hot New ES&G Fund</a></h2>
-										<p>Solar Chicago is a new ESG & Social Impact fund creating new sustainable affordable housing while creating the largest low-income Solar project in the country.</p>
+										<h2>Create 2,000 sustainable housing units in Chicago through 2019</h2>
+										<p>Our goal is to creatively build a portfolio of units that working class Americans can live in and thrive. This portfolio will also make it a priority to serve the existing residents in these communities by keeping prices down and also providing increased access to jobs through using local labor.</p>
+										<br />
+										<p>There is a shortage of 7.8 million affordable housing units in America.</p>
+										<br />
+										<p>Illinois has the country’s 4th worst affordable housing shortage (-324,178 units).</p>
+										<br />
+										<p>Chicago has a 264,000 affordable housing unit deficit</p>
 									</div>
 								</header>
-								<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
-								<footer>
+								<!-- <a href="#" class="image featured"><img src="/images/pic01.jpg" alt="" /></a> -->
+								<!-- <footer>
 									<ul class="actions">
 										<li><a href="#" class="button big">Learn More</a></li>
 									</ul>
-								</footer>
+								</footer> -->
+							</article>
+
+							<article class="post">
+								<header>
+									<div class="title">
+										<h2>Lower building carbon emissions & individual unit utility bills by 33%</h2>
+										<p>Buildings are the largest contributor to CO2 emissions and this is especially true in outdated structures. These buildings' show their inefficiencies by the high utility costs passed on to residents. We want to remove this additional burden by updating existing structures and also new construction of environmentally conscious multi-unit buildings. Removing the additional burden of high energy costs that are passed onto the tenants, while also making a positive impact on the environment.</p>
+										<br />
+										<p>Buildings account for 39% of the US total CO2 emissions.</p>
+										<br />
+										<p>Buildings consume 70% of the electricity load in the US.</p>
+										<br />
+										<p>A household is considered energy burdened when the energy costs exceed 6% of income. However, the average Illinois low-income family spend 13% of their income on energy.</p>
+									</div>
+								</header>
+								<!-- <a href="#" class="image featured"><img src="/images/pic01.jpg" alt="" /></a> -->
+								<!-- <footer>
+									<ul class="actions">
+										<li><a href="#" class="button big">Learn More</a></li>
+									</ul>
+								</footer> -->
 							</article>
 
 							<section id="footer">
@@ -88,10 +115,11 @@
 					<section id="sidebar">
 
 							<section id="intro">
-								<!-- <a href="#" class="logo"><img src="images/logo.jpg" alt="" /></a> -->
+								<!-- <a href="#" class="logo"><img src="/images/logo.jpg" alt="" /></a> -->
 								<header>
-									<h2>The Solar Chicago Fund</h2>
-									<p><a href="https://548captial.com" style="color:#58b72c">A 548 Capital Project </a></p>
+									<h2>Fund Goals</h2>
+									<br />
+									<p>$60 million fund target</p>
 								</header>
 							</section>
 
@@ -118,10 +146,10 @@
 
 			</div>
 
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/skel.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+			<script src="/assets/js/jquery.min.js"></script>
+			<script src="/assets/js/skel.min.js"></script>
+			<script src="/assets/js/util.js"></script>
+			<script src="/assets/js/main.js"></script>
 
 	</body>
 </html>
