@@ -17,7 +17,7 @@
 								<li><a href="#">Mission</a></li>
 								<li><a href="/api/goals">Goals</a></li>
 								<li><a href="#">Structure</a></li>
-								<li><a href="#">Contact</a></li>
+								<li><a href="https://548capital.com/contact/">Contact</a></li>
 							</ul>
 						</nav>
 						<nav class="main">
@@ -52,7 +52,7 @@
 										</a>
 									</li>
 									<li>
-										<a href="#">
+										<a href="https://548capital.com/contact/">
 											<h3>Inquiries</h3>
 											<p>Reach out and start the conversation</p>
 										</a>
@@ -148,7 +148,7 @@
 								<h2>Invest with us</h2>
 								<p>Join us in guiding the future of sustainable housing and clean energy in Chicago.</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Get in Touch</a></li>
+									<li><a href="https://548capital.com/contact/" class="button">Get in Touch</a></li>
 								</ul>
 							</section>
 
