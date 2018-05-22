@@ -16,7 +16,7 @@
 							<ul>
 								<li><a href="#">Mission</a></li>
 								<li><a href="/api/goals">Goals</a></li>
-								<li><a href="#">Structure</a></li>
+								<li><a href="#">Strategy</a></li>
 								<li><a href="https://548capital.com/contact/">Contact</a></li>
 							</ul>
 						</nav>
@@ -52,8 +52,8 @@
 									</li>
 									<li>
 										<a href="#">
-											<h3>Structure</h3>
-											<p>See fund metrics and benchmarks</p>
+											<h3>Strategy</h3>
+											<p>Our Execution of plan</p>
 										</a>
 									</li>
 									<li>
@@ -72,8 +72,22 @@
 							<article class="post">
 								<header>
 									<div class="title">
-										<h2><a href="#">Chicago's New ESG Fund</a></h2>
-										<p>Solar Chicago is a new ESG & Social Impact fund creating new sustainable affordable housing while creating the largest low-income Solar project in the country.</p>
+										<h2><a href="#">Chicago's New Social Impact Fund</a></h2>
+										<p>Solar Chicago is a new ESG and Social Impact fund creating new sustainable affordable housing while creating the largest low-income Solar project in the country.</p>
+									</div>
+								</header>
+								<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+								<footer>
+									<ul class="actions">
+										<li><a href="#" class="button big">Learn More</a></li>
+									</ul>
+								</footer>
+							</article>
+							<article class="post">
+								<header>
+									<div class="title">
+										<h2><a href="#">Strategy</a></h2>
+										<p>Build 9 megawatt solar farm<br /><br />leverage it to create 2,000 affordable housing units<br /><br />work with the community to provide 600 jobs related to the initiative<br /><br />lowering carbon emmission 70 metric tons, lower utility bills for families by 30%, committing 1% to 548 Foundation</p>
 									</div>
 								</header>
 								<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
