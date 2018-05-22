@@ -40,7 +40,7 @@
 										</a>
 									</li>
 									<li>
-										<a href="#">
+										<a href="/api/goals">
 											<h3>Goals</h3>
 											<p>Be a part of history</p>
 										</a>
@@ -96,6 +96,27 @@
 										<p>Buildings consume 70% of the electricity load in the US.</p>
 										<br />
 										<p>A household is considered energy burdened when the energy costs exceed 6% of income. However, the average Illinois low-income family spend 13% of their income on energy.</p>
+									</div>
+								</header>
+								<!-- <a href="#" class="image featured"><img src="/images/pic01.jpg" alt="" /></a> -->
+								<!-- <footer>
+									<ul class="actions">
+										<li><a href="#" class="button big">Learn More</a></li>
+									</ul>
+								</footer> -->
+							</article>
+
+							<article class="post">
+								<header>
+									<div class="title">
+										<h2>Create the first investment fund to prioritize both community solar & sustainable affordable housing</h2>
+										<p>Our strategy is to invest and create community solar and energy efficient affordable housing. To execute we will raise $60 million dollars for our initial fund. Using the fund as proof of concept that competitive returns can be created by tying affordable housing to community solar projects. This is an ideal fit for investors and institutions looking to invest in Social Impact, Environmental Social Governance (ESG), Sustainable and Responsible (SRI), Real Estate, First time fund managers, or looking to add a African American fund manager to their fund management portfolio.</p>
+										<br />
+										<p>$8.7 Trillion in assets invested in ESG funds in America.</p>
+										<br />
+										<p>In 2016, 37% of institutional investors incorporated ESG factors into decision making.</p>
+										<br />
+										<p>$2.15 Trillion in assets invested in funds with priorities around Carbon emissions and climate change.</p>
 									</div>
 								</header>
 								<!-- <a href="#" class="image featured"><img src="/images/pic01.jpg" alt="" /></a> -->
