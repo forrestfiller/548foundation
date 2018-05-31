@@ -34,6 +34,11 @@
 							<section>
 								<ul class="links">
 									<li>
+										<a href="/">
+											<h3>Home</h3>
+										</a>
+									</li>
+									<li>
 										<a href="#">
 											<h3>Mission</h3>
 											<p>Learn about our core values</p>
