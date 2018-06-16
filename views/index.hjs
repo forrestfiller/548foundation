@@ -14,9 +14,9 @@
 						<h1><a href="/">SolarChi</a></h1>
 						<nav class="links">
 							<ul>
-								<li><a href="#">Mission</a></li>
+								<!-- <li><a href="#">Mission</a></li> -->
 								<li><a href="/api/goals">Goals</a></li>
-								<li><a href="#">Strategy</a></li>
+								<!-- <li><a href="#">Strategy</a></li> -->
 								<li><a href="https://548capital.com/contact/">Contact</a></li>
 							</ul>
 						</nav>
@@ -38,24 +38,24 @@
 											<h3>Home</h3>
 										</a>
 									</li>
-									<li>
+									<!-- <li>
 										<a href="#">
 											<h3>Mission</h3>
 											<p>Learn about our core values</p>
 										</a>
-									</li>
+									</li> -->
 									<li>
 										<a href="/api/goals">
 											<h3>Goals</h3>
 											<p>Be a part of history</p>
 										</a>
 									</li>
-									<li>
+									<!-- <li>
 										<a href="#">
 											<h3>Strategy</h3>
 											<p>Our Execution of plan</p>
 										</a>
-									</li>
+									</li> -->
 									<li>
 										<a href="https://548capital.com/contact/">
 											<h3>Inquiries</h3>
@@ -72,14 +72,14 @@
 							<article class="post">
 								<header>
 									<div class="title">
-										<h2><a href="#">Chicago's New Social Impact Fund</a></h2>
+										<h2><a href="/api/goals">Chicago's New Social Impact Fund</a></h2>
 										<p>Solar Chicago is a new ESG and Social Impact fund creating new sustainable affordable housing while creating the largest low-income Solar project in the country.</p>
 									</div>
 								</header>
 								<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
 								<footer>
 									<ul class="actions">
-										<li><a href="#" class="button big">Learn More</a></li>
+										<li><a href="/api/goals" class="button big">Learn More</a></li>
 									</ul>
 								</footer>
 							</article>
@@ -123,13 +123,13 @@
 							</section>
 
 							<section id="footer">
-								<ul class="icons" style="color:#58b72c">
+								<!-- <ul class="icons" style="color:#58b72c">
 									<li><a href="#" class="fa-twitter"><span class="label">Twitter</span></a></li>
 									<li><a href="#" class="fa-facebook"><span class="label">Facebook</span></a></li>
 									<li><a href="#" class="fa-instagram"><span class="label">Instagram</span></a></li>
 									<li><a href="#" class="fa-rss"><span class="label">RSS</span></a></li>
 									<li><a href="#" class="fa-envelope"><span class="label">Email</span></a></li>
-								</ul>
+								</ul> -->
 								<p class="copyright">&copy;<a href="https://548capital.com">548 Capital<img src="/images/548logo.png" alt="logo" /></a></p>
 							</section>
 

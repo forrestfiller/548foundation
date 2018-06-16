@@ -14,9 +14,9 @@
 						<h1><a href="/">SolarChi</a></h1>
 						<nav class="links">
 							<ul>
-								<li><a href="#">Mission</a></li>
+								<!-- <li><a href="#">Mission</a></li> -->
 								<li><a href="/api/goals">Goals</a></li>
-								<li><a href="#">Structure</a></li>
+								<!-- <li><a href="#">Structure</a></li> -->
 								<li><a href="https://548capital.com/contact/">Contact</a></li>
 							</ul>
 						</nav>
@@ -38,24 +38,24 @@
 											<h3>Home</h3>
 										</a>
 									</li>
-									<li>
+									<!-- <li>
 										<a href="#">
 											<h3>Mission</h3>
 											<p>Learn about our core values</p>
 										</a>
-									</li>
+									</li> -->
 									<li>
 										<a href="/api/goals">
 											<h3>Goals</h3>
 											<p>Be a part of history</p>
 										</a>
 									</li>
-									<li>
+									<!-- <li>
 										<a href="#">
 											<h3>Structure</h3>
 											<p>See fund metrics and benchmarks</p>
 										</a>
-									</li>
+									</li> -->
 									<li>
 										<a href="https://548capital.com/contact/">
 											<h3>Inquiries</h3>
@@ -158,13 +158,13 @@
 							</section>
 
 							<section id="footer">
-								<ul class="icons" style="color:#58b72c">
+								<!-- <ul class="icons" style="color:#58b72c">
 									<li><a href="#" class="fa-twitter"><span class="label">Twitter</span></a></li>
 									<li><a href="#" class="fa-facebook"><span class="label">Facebook</span></a></li>
 									<li><a href="#" class="fa-instagram"><span class="label">Instagram</span></a></li>
 									<li><a href="#" class="fa-rss"><span class="label">RSS</span></a></li>
 									<li><a href="#" class="fa-envelope"><span class="label">Email</span></a></li>
-								</ul>
+								</ul> -->
 								<p class="copyright">&copy;<a href="https://548capital.com">548 Capital</a></p>
 							</section>
 
