@@ -87,7 +87,14 @@
 								<header>
 									<div class="title">
 										<h2>Strategy</h2>
-										<p>Build 9 megawatt solar farm<br /><br />leverage it to create 2,000 affordable housing units<br /><br />work with the community to provide 600 jobs related to the initiative<br /><br />lowering carbon emmission 70 metric tons, lower utility bills for families by 30%, committing 1% to 548 Foundation</p>
+										<ul>
+											<li>Create 2,000 solar powered affordable housing units</li>
+											<li>Build the largest community solar project in the country</li>
+											<li>Create 600 local jobs for the communities where we are investing</li>
+											<li>Lower carbon emissions by 70 metric tons & lower utility costs for families by 1/3</li>
+											<li>Commit 1% of net profit to reinvest in public schools</li>
+										</ul>
+										<!-- <p>Create 2,000 solar powered affordable housing units<br /><br />Build the largest community solar project in the country<br /><br />Create 600 local jobs for the communities where we are investing<br /><br />Lower carbon emissions by 70 metric tons & lower utility costs for families by 1/3<br /><br />Commit 1% of net profit to reinvest in public schools</p> -->
 									</div>
 								</header>
 
