@@ -76,7 +76,7 @@
 										<p>Solar Chicago is a new ESG and Social Impact fund creating new sustainable affordable housing while creating the largest low-income Solar project in the country.</p>
 									</div>
 								</header>
-								<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+								<a href="#" class="image featured"><img src="/images/pic01.jpg" alt="" /></a>
 								<footer>
 									<ul class="actions">
 										<li><a href="/api/goals" class="button big">Learn More</a></li>
