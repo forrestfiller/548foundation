@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>The 548 Foundation Fund</title>
+		<title>548 Foundation</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="/assets/css/main.css" />
@@ -11,11 +11,11 @@
 			<div id="wrapper">
 
 					<header id="header">
-						<h1><a href="/">SolarChi</a></h1>
+						<h1><a href="/">548 Foundation</a></h1>
 						<nav class="links">
 							<ul>
 								<!-- <li><a href="#">Mission</a></li> -->
-								<li><a href="/api/goals">Goals</a></li>
+								<li><a href="/api/projects">Projects</a></li>
 								<!-- <li><a href="#">Strategy</a></li> -->
 								<li><a href="https://548capital.com/contact/">Contact</a></li>
 							</ul>
@@ -45,8 +45,8 @@
 										</a>
 									</li> -->
 									<li>
-										<a href="/api/goals">
-											<h3>Goals</h3>
+										<a href="/api/projects">
+											<h3>Projects</h3>
 											<p>Be a part of history</p>
 										</a>
 									</li>
@@ -72,18 +72,18 @@
 							<article class="post">
 								<header>
 									<div class="title">
-										<h2><a href="/api/goals">Chicago's New Social Impact Fund</a></h2>
-										<p>The 548 Foundation is a new ESG and Social Impact fund creating new sustainable affordable housing while creating the largest low-income Solar project in the country.</p>
+										<h2><a href="/api/projects">Recent Projects</a></h2>
+										<p>The 548 Foundation targets unique projects within the Chicago inner city, prioritizing projects that impact the public school system. As education is the springboard that develops long term improvements within communities, we invest our efforts with local inner city public schools to assist with programming, scholarship, and enrichment programs.</p>
 									</div>
 								</header>
 								<a href="#" class="image featured"><img src="/images/pic01.jpg" alt="" /></a>
 								<footer>
 									<ul class="actions">
-										<li><a href="/api/goals" class="button big">Learn More</a></li>
+										<li><a href="/api/projects" class="button big">Learn More</a></li>
 									</ul>
 								</footer>
 							</article>
-							<article class="post">
+							<!-- <article class="post">
 								<header>
 									<div class="title">
 										<h2>Strategy</h2>
@@ -97,11 +97,11 @@
 									</div>
 								</header>
 
-							</article>
+							</article> -->
 
-							<section id="footer">
+							<!-- <section id="footer">
 								<p class="copyright">The Company is not a Registered Investment Advisor, Broker/Dealer, Financial Analyst, Financial Bank, Securities Broker or Financial Planner. The Information on the Site is provided for information purposes only. The Information is not intended to be and does not constitute financial advice or any other advice, is general in nature and not specific to you. Before using the Company’s information to make an investment decision, you should seek the advice of a qualified and registered securities professional and undertake your own due diligence. None of the information on our Site is intended as investment advice, as an offer or solicitation of an offer to buy or sell, or as a recommendation, endorsement, or sponsorship of any security, Company, or fund. The Company is not responsible for any investment decision made by you. You are responsible for your own investment research and investment decisions.</p>
-							</section>
+							</section> -->
 
 					</div>
 
@@ -110,16 +110,22 @@
 							<section id="intro">
 								<!-- <a href="#" class="logo"><img src="/images/548logo.png" alt="logo" /></a> -->
 								<header>
-									<h2>The The 548 Foundation Fund</h2>
-									<p><a href="https://548capital.com/" style="color:#58b72c">A 548 Capital Project </a></p>
+									<h2>The 548 Foundation</h2>
+									<!-- <p><a href="https://548capital.com/" style="color:#58b72c">Making a difference for Chicago's youth</a></p> -->
 								</header>
 							</section>
 
 							<section class="blurb">
-								<h2>Invest with us</h2>
-								<p>Join us in guiding the future of sustainable housing and clean energy in Chicago.</p>
+								<h2>Make positive change with us</h2>
+								<p>The 548 Foundation is the 501(c)(3) non-profit organization, created to support the community mission of <a href="https://548capital.com/" style="color:#58b72c">548 Capital</a>'s investment fund.</p>
 								<ul class="actions">
 									<li><a href="https://548capital.com/contact/" class="button">Get in Touch</a></li>
+									<br />
+									<br />
+									<li><a href="https://venmo.com/foundation" class="button">Donate with Venmo</a></li>
+									<br />
+									<br />
+									<li><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CSSNCCJL9MZG8" class="button">Donate with Paypal</a></li>
 								</ul>
 							</section>
 
@@ -131,7 +137,7 @@
 									<li><a href="#" class="fa-rss"><span class="label">RSS</span></a></li>
 									<li><a href="#" class="fa-envelope"><span class="label">Email</span></a></li>
 								</ul> -->
-								<p class="copyright">&copy;<a href="https://548capital.com">548 Capital<img src="/images/548logo.png" alt="logo" /></a></p>
+								<!-- <p class="copyright">&copy;<a href="https://548capital.com">548 Capital<img src="/images/548logo.png" alt="logo" /></a></p> -->
 							</section>
 
 					</section>

@@ -1,9 +1,9 @@
 var express = require('express');
 var router = express.Router()
 
-router.get('/goals', function(req, res, next){
+router.get('/projects', function(req, res, next){
 
-	res.render('goals', { title: 'Fund Goals' })
+	res.render('projects', { title: 'delete this' })
 
 	// res.json({
 	// 	confirmation:'success',
