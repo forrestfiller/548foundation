@@ -69,21 +69,22 @@
 
 					<div id="main">
 
-							<!-- <article class="post">
+							<article class="post">
 								<header>
 									<div class="title">
-										<h2>Create 2,000 sustainable housing units in Chicago through 2019</h2>
-										<ul>
+										<h2>Charity Ball for Harlem Youth</h2>
+										<!-- <ul>
 											<li>Our goal is to creatively build a portfolio of units that working class Americans can live in and thrive. This portfolio will also make it a priority to serve the existing residents in these communities by keeping prices down and also providing increased access to jobs through using local labor.</li><br />
 											<li>There is a shortage of 7.8 million affordable housing units in America.</li><br />
 											<li>Illinois has the country’s 4th worst affordable housing shortage (-324,178 units).</li><br />
 											<li>Chicago has a 264,000 affordable housing unit deficit</li>
-										</ul>
+										</ul> -->
 									</div>
 								</header>
-							</article> -->
+								<a href="#" class="image featured"><img src="/images/aroyalaffair.jpg" alt="" /></a>
+							</article>
 
-							<article class="post">
+							<!-- <article class="post">
 								<header>
 									<div class="title">
 										<h2>Lower building carbon emissions & individual unit utility bills by 33%</h2>
@@ -98,17 +99,18 @@
 										</ul>
 									</div>
 								</header>
-							</article>
+							</article> -->
 
 							<article class="post">
 								<header>
 									<div class="title">
-										<h2>Create the first investment fund to prioritize both community solar & sustainable affordable housing</h2>
+										<h2>Charity Event for Puerto Rico Hurricane Relief</h2>
 										<ul>
-											<li>Our strategy is to invest and create community solar and energy efficient affordable housing. To execute we will raise $60 million dollars for our initial fund. Using the fund as proof of concept that competitive returns can be created by tying affordable housing to community solar projects. This is an ideal fit for investors and institutions looking to invest in Social Impact, Environmental Social Governance (ESG), Sustainable and Responsible (SRI), Real Estate, First time fund managers, or looking to add a African American fund manager to their fund management portfolio.</li>
+											<li>The 548 Foundation  hosted an event on Saturday December 2nd 2017 at Captain Hard Times Dining on the Southside of Chicago.  Proceeds of the event went to benefit Puerto Rico disaster relief. The donations were sent to the "Unidos" hurricane relief fund for hurricane Maria victims in Puerto Rico at the Hispanic Federation, a non-profit organization.</li>
 										</ul>
 									</div>
 								</header>
+								<a href="#" class="image featured"><img src="/images/unidos.jpg" alt="" /></a>
 							</article>
 
 							<!-- <section id="footer">
@@ -129,8 +131,8 @@
 							</section>
 
 							<section class="blurb">
-								<h2>Invest with us</h2>
-								<p>The 548 Foundation targets unique projects within the Chicago inner city, prioritizing projects that impact the public school system. As education is the springboard that develops long term improvements within communities, we invest our efforts with local inner city public schools to assist with programming, scholarship, and enrichment programs.</p>
+								<h2>Join us in our mission!</h2>
+								<p>The 548 Foundation targets unique projects within the Chicago inner city and beyond, primarily targeting projects that impact education. We recognize that education is the springboard that develops long term improvements within communities and thus we invest our efforts with local inner city public schools to assist with programming, scholarship, and enrichment programs.</p>
 								<ul class="actions">
 									<li><a href="https://548capital.com/contact/" class="button">Get in Touch</a></li>
 									<br />
